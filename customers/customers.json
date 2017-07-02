@@ -1,0 +1,32 @@
+[{
+          "customerId": 1,
+          "firstName": "John",
+          "lastName": "Smith",
+          "email": "abc@gmail.com"
+     },
+     {
+          "customerId": 2,
+          "firstName": "Pallabi",
+          "lastName": "Das",
+          "email": "abc@gmail.com"
+     },
+     {
+          "customerId": 3,
+          "firstName": "Lalit",
+          "lastName": "Yadav",
+          "email": "abc@gmail.com"
+     },
+     {
+          "customerId": 4,
+          "firstName": "Mallika",
+          "lastName": "Das",
+          "email": "abc@gmail.com"
+     },
+     {
+          "customerId": 5,
+          "firstName": "Poulami",
+          "lastName": "Das",
+          "email": "abc@gmail.com"
+     }
+
+]
